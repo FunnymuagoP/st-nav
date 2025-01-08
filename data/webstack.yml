@@ -4,15 +4,16 @@
   links: 
     - title: 网络剪贴板
       url: https://netcut.cn/
-      logo: images/logos/xxx.png
-      qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
+      logo: 
+      qrcode: 
       description: 在线跨屏剪切文字
-    - title: 草料二维码
+    - title: 测试1
       qrcode: images/qrcodes/cli.png
       url: https://cli.im/url
-      description: 在线二维码生成工具
-    - title: 在线文件传输
+      description: test
+    - title: 测试2
       url: https://musetransfer.com/
+      description: test
 
 - taxonomy: 云服务平台
   icon: fa-cloud
