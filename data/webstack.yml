@@ -15,20 +15,23 @@
       url: https://musetransfer.com/
       description: test
 
-- taxonomy: 云服务平台
-  icon: fa-cloud
-  links: 
-    - title: Github
-      url: https://github.com/
+- taxonomy: 图文漫画
+  icon: fa-readme
+  list: 
+    - term: 常驻站点
+      links:
+        - title: G站漫画
+          url: https://nav.telltome.net/
+          description: G漫画发布页
+    - term: 未来可能失效的站点
+      links:
+        - title: 动漫之家
+          url: https://www.dmzjmh.com/
+          description: 盲入正规军的后果
   
 - taxonomy: 网络资源
   icon: fa-download
   list: 
-    - term: 软件
-      links:
-        - title: 果核剥壳
-          url: https://www.ghxi.com/
-          description: 互联网的净土。PC软件，手机软件，正版软件，破解软件
     - term: 软件
       links:
         - title: 果核剥壳
