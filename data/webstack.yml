@@ -4,30 +4,21 @@
   links: 
     - title: 网络剪贴板
       url: https://netcut.cn/
-      logo: 
-      qrcode: 
+      logo: images/logos/xxx.png
+      qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
       description: 在线跨屏剪切文字
-    - title: 测试1
+    - title: 草料二维码
       qrcode: images/qrcodes/cli.png
       url: https://cli.im/url
-      description: test
-    - title: 测试2
+      description: 在线二维码生成工具
+    - title: 在线文件传输
       url: https://musetransfer.com/
-      description: test
 
-- taxonomy: 图文漫画
-  icon: fa-readme
-  list: 
-    - term: 常驻站点
-      links:
-        - title: G站漫画
-          url: https://nav.telltome.net/
-          description: G漫画发布页
-    - term: 未来可能失效的站点
-      links:
-        - title: 动漫之家
-          url: https://www.dmzjmh.com/
-          description: 盲入正规军的后果
+- taxonomy: 云服务平台
+  icon: fa-cloud
+  links: 
+    - title: Github
+      url: https://github.com/
   
 - taxonomy: 网络资源
   icon: fa-download
@@ -70,11 +61,10 @@
     - title: 子页面一
       url: sub1
       description: 本站子页面一，对应content目录的sub1.md，可重命名、删除、复制。
-    - title: 《
-      url: https://st.1970s.vip/
-      description: 上一页
-    - title: 》
-      url: https://st.1970s.vip/
-      description: 下一页
+    - title: 一为导航
+      url: https://nav.iowen.cn/
+      description: onenav主题演示站
+    - title: 趣导航
+      url: https://qssily.com/
       
 ---
