@@ -2,53 +2,65 @@
 - taxonomy: 常用网址
   icon: fa-star
   links: 
-    - title: 测试1
+    - title: 星反！
       url: https://netcut.cn/
-      logo: images/logos/xxx.png
-      description: test1
-    - title: 测试2
-      url: https://cli.im/url
-      logo: images/logos/xxx.png
-      description: test2
-    - title: 测试3
-      url: https://musetransfer.com/
-      logo: images/logos/xxx.png
-      description: test3
+      description: 点击前往！
 
 - taxonomy: 资源
   icon: fa-download
   list: 
     - term: 软件
       links:
-        - title: 果核剥壳
+        - title: test
           url: https://www.ghxi.com/
-          description: 互联网的净土。PC软件，手机软件，正版软件，破解软件
+          description: test
     - term: 游戏
       links:
         - title: Online-Fix
-          url: https://www.oldmantvg.net/
-          description: 俄罗斯正版
+          url: online-fix.me
+          description: 正统俄罗斯正版
         - title: 小妖怪分享
-          url: https://www.oldmantvg.net/
-          description: 免费单机
+          url: https://www.zzzz688.top/
+          description: 免费单机引导页
+        - title: 618Switch
+          url: https://www.switch618.site/
+          description: 由其他网站转存国产网盘
 
 - taxonomy: 影音
   icon: fa-video-camera
   list: 
-    - term: 高清站点
+    - term: 常驻老站
       links:
         - title: LIBVIO
-          url: https://pan666.cn
-          description: 没有澳门皇家赌场
+          url: https://www.libvio.app/
+          description: 高清|没有澳门皇家赌场的高清片源。LIBVIO引导页
+        - title: AGE动漫
+          url: https://rentry.la/agefans
+          description: 番剧。大部分还算高清
+        - title: 稀饭动漫
+          url: https://xn--6fr867dwnhpu5a.com/
+          description: 还行
+        - title: LIBVIO
+          url: https://www.libvio.app/
+          description: 没有澳门皇家赌场的高清片源。LIBVIO引导页
     - term: 乱拳打死老师傅
       links:
-        - title: 樱花动漫
-          description: 在线跨屏剪贴文字工具
-          url: https://zmk.pw/
-        - title: 风车动漫
-          description: 风车动漫
-          url: https://subhd.tv/
-    - term: 源搜站点
+        - title: 套名|风车动漫1
+          description: 不知名动漫站点
+          url: https://www.fcmv.cc/
+        - title: 套名|风车动漫2
+          description: 不知名动漫站点引导页
+          url: http://wedm.cc/
+        - title: 套名|风车动漫3
+          description: 不知名动漫站点
+          url: https://www.705dm.com/
+        - title: 套名|樱花动漫1
+          description: 不知名动漫站点
+          url: http://www.yhdm60.com/
+        - title: 套名|樱花动漫2
+          description: 不知名动漫站点
+          url: www.yinghua3.com
+    - term: 源搜站
       links:
         - title: 茶杯狐
           description: 茶杯狐
@@ -71,6 +83,9 @@
         - title: 在线文件传输
           url: https://musetransfer.com/
           description: 在线二维码生成工具
+        - title: 長門番堂
+          url: https://yuc.wiki/
+          description: 查看最新番剧
     - term: 杂鱼
       links:
         - title: 果核剥壳
@@ -84,9 +99,9 @@
       url: sub1
       description: 本站子页面一，对应content目录的sub1.md，可重命名、删除、复制。
     - title: 一为导航
-      url: https://.cn/
-      description: 2131w
+      url: st.1970s.vip
+      description: onenav主题演示站
     - title: 趣导航
-      url: https://qssily.com/
+      url: st.1970s.vip
       
 ---
